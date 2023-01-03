@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sri766
-- 👀 I’m interested in Web Dev, Machine learning
+- 👋 Hi, I’m Srisanth Seth
+- Student At NIT, Rourkela
+- 👀 I’m interested in web dev, Learning DSA
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : you can mail me at srisanthseth28@gmail.com
