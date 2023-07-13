@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/sri766/sri766/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)](https://www.linkedin.com/in/srisanth-seth-51b54b225/)
 <h1 align="center">Hi 👋, I'm Srisanth Seth</h1>
 <h3 align="center">A passionate MERN,Backend Developer & Figma Designer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri766&label=Profile%20views&color=0e75b6&style=flat" alt="sri766" /> </p>
 
 - 🔭 I’m currently working on [DevOps, designing my portfolio](https://www.figma.com/proto/NI13idnzeiaXOPtv6cgmqd?type=design&node-id=0-1&mode=design&t=K2c3xBwwfEkkcycy-6)
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://sri766.hashnode.dev/](https://sri766.hashnode.dev/)
 
-- 💬 Ask me about **React,Node,MongoDB,SQL,Docker,Kubernetes,AWS**
+- 💬 Ask me about **React, Node, MongoDB, SQL, Docker, Kubernetes, AWS**
 
 - 📫 How to reach me **srisanthseth28@gmail.com**
 
