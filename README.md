@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sri766/sri766/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)](https://www.linkedin.com/in/srisanth-seth-51b54b225/)
+[![MasterHead](https://github.com/sri766/sri766/blob/main/A%20MERN%20Developer%2CFigma%20Designer%20%26%20DevOps%20enthusiast.png)](https://www.linkedin.com/in/srisanth-seth-51b54b225/)
 <h1 align="center">Hi 👋, I'm Srisanth Seth</h1>
 <h3 align="center">A passionate MERN,Backend Developer & Figma Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
