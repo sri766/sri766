@@ -32,5 +32,4 @@
 [![sri766's GitHub | Dependencies](https://stats.quine.sh/sri766/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sri766)
 ---
 <p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri766&theme=radical&hide_border=false" alt="sri766" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=sri766&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="sri766" /></p>
 
